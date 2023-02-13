@@ -1,9 +1,9 @@
 # Arctan-ks-
-## Project created for OwlHacks 2023.
+Project created for OwlHacks 2023.
 
-## Won most creative project.
+Won most creative project.
 
-### Steps Needed to run
+Steps Needed to run
 1. Install Pip
 2. Install pygame
 3. Make sure all fonts and images downloaded in the same directory
