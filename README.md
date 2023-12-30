@@ -15,3 +15,4 @@ We used Python and pygame to create our game called Arctan(ks).
 This game was built with the purpose of higher education. 
 Objective is to create a fun math-based game that is also educational. 
 The goal of the game is to learn the different graphs of functions including polynomial, trigonemetric and linear functions. The user is faced with different levels where they must shoot projectiles in the shape of user-inputted functions to hit enemy aliens.
+
